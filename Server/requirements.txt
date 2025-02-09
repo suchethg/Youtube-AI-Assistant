@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+youtube-transcript-api
+faiss-cpu
+ollama
+langchain-community
